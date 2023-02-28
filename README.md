@@ -20,3 +20,8 @@ Here, minimum support is taken as 0.5 (50%)
 
 - Saloni Srivastava
 
+## Output
+
+-candidate itemset [C1,C2,C3] are printed
+
+-Frequent itemsets [L1,L2,L3] are printed
